@@ -1,2 +1,2 @@
 # assignments
-Programming Assignments and experiments repo
+Programming Assignment and experimental repo
